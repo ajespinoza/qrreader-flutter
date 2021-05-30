@@ -5,3 +5,4 @@ Proyecto para leer códigos QR con la cámara, que dirijan a un sitio web o a un
 ## Vista
 
 ![View sencilla](https://i.imgur.com/BqELp6R.png?1)
+...
